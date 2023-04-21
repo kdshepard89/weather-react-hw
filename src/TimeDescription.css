@@ -1,0 +1,13 @@
+.todayTemp {
+  position: relative;
+  left: 20px;
+  font-family: "Oswald", sans-serif;
+  font-size: 80px;
+  font-weight: bolder;
+}
+
+.unit {
+  font-size: 20px;
+  position: relative;
+  bottom: 41px;
+}
