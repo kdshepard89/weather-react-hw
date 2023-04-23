@@ -31,6 +31,10 @@ root.render(
         </div>
       </div>
     </div>
+    <p className="git-link">
+      This was coded by Katie Shepard and can be found open-sourced on
+      <a href="https://github.com/kdshepard89/weather-react-hw"> GitHub</a>
+    </p>
   </React.StrictMode>
 );
 
